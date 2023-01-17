@@ -1,0 +1,19 @@
+{
+  "name": "challenge2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jbar91/202301-W1CH2-Leandro-Joseba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jbar91/202301-W1CH2-Leandro-Joseba/issues"
+  },
+  "homepage": "https://github.com/Jbar91/202301-W1CH2-Leandro-Joseba#readme"
+}
